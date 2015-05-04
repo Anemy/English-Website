@@ -1,0 +1,11 @@
+# Site settings
+title: World Wide Javascript
+email: rhysh@live.com
+description: > # this means to ignore newlines until "baseurl:"
+  Is Javascript taking over?
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+github_username:  Anemy
+
+# Build settings
+markdown: kramdown
